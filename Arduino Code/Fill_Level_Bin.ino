@@ -2,7 +2,7 @@
 //By Tzitzios Ioannis - 2022
 //
 //This example creates a bridge between Serial and Classical Bluetooth (SPP)
-//and also demonstrate that SerialBT have the same functionalities of a normal Serial
+//and also demonstrate the value of distance sensor to LCD to measure the fill level of recycle bin
 
 #include "BluetoothSerial.h"
 #include "lcdgfx.h"
